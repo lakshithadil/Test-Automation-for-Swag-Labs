@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/byte-buddy-1.12.22.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/failsafe-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-buffer-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-codec-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-codec-http-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-codec-socks-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-common-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-handler-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-handler-proxy-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-resolver-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-transport-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-transport-classes-epoll-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-transport-classes-kqueue-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-transport-native-epoll-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-transport-native-kqueue-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/netty-transport-native-unix-common-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-api-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-api-logs-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-context-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-exporter-logging-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-sdk-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-sdk-common-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-sdk-extension-autoconfigure-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-sdk-logs-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-sdk-metrics-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-sdk-trace-1.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/opentelemetry-semconv-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/lib/slf4j-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-api-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-api-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-chrome-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-chrome-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-chromium-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-chromium-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-devtools-v85-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-devtools-v85-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-devtools-v107-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-devtools-v107-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-devtools-v108-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-devtools-v108-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-devtools-v109-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-devtools-v109-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-edge-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-edge-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-firefox-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-firefox-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-http-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-http-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-ie-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-ie-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-java-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-java-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-json-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-json-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-manager-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-manager-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-remote-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-remote-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-safari-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-safari-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-support-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Academic/4th yr/SQA/selenium-java-4.8.0/selenium-support-4.8.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
