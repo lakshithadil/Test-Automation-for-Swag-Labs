@@ -70,6 +70,9 @@ Ensure that you have the following tools and technologies installed on your mach
 - [Java](https://www.java.com/en/download/)
 - [Maven](https://maven.apache.org/install.html)
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
+- [Cucumber](https://cucumber.io/)
+- [Chrome driver](https://chromedriver.chromium.org)
+  <br>Note: Make sure to download the relavent Chrome driver version for your chrome browser match, and put it to the ChromeDriver folder, and set the relavent path in the `Base.java` file.
 
 ## Usage
 
