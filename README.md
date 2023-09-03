@@ -61,7 +61,7 @@ These technologies are combined to create an effective testing framework that au
 
 ## Test Cases
 
-The test cases are written in the Gherkin syntax, which offers a clear representation of the test scenarios including over 100 test cases. Each test case covers various aspects of the Swag Labs website, ensuring comprehensive coverage.
+The test cases are written in the Gherkin syntax, which offers a clear representation of the test scenarios including over 100 test cases. Each test case covers various aspects of the Swag Labs website, ensuring comprehensive coverage.<br><br>Please refer the Test Cases PDF for complete details - [Test Automation for Swag Labs - Test Cases.pdf](https://github.com/lakshithadil/Test-Automation-for-Swag-Labs/blob/main/Test%20Automation%20for%20Swag%20Labs%20%20-%20Test%20Cases%20.pdf)
 
 ## Installation
 
@@ -73,7 +73,7 @@ Ensure that you have the following tools and technologies installed on your mach
 - [Selenium](https://www.selenium.dev/downloads/) Need to add Selenuim jar files to class path!
 - [Cucumber](https://cucumber.io/)
 - [Chrome driver](https://chromedriver.chromium.org)
-  <br>Note: Make sure to download the relavent Chrome driver version for your chrome browser match, and put it to the ChromeDriver folder, and set the relavent path in the `Base.java` file.
+  <br><br>Note: Make sure to download the relavent Chrome driver version for your chrome browser match, and put it to the ChromeDriver folder, and set the relavent path in the `Base.java` file.
 
 ## Usage
 
